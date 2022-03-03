@@ -3,7 +3,7 @@ Portfolio Optimization Tool Request
 
 해당 문서는 Portfolio Optimization Tool 설명을 위한 문서입니다.
 
-Kospi지수 모방을 위한 Actual Portfolio를 구성할 시, 비중값은 지수산정시가총액을 사용할 때 완전 복제가 가능합니다.
+Kospi지수 모방을 위한 Actual Portfolio를 구성할 시, 비중값은 지수산정시가총액을 사용할 때 수익률의 완전 복제(소수점 두자리 기준)가 가능합니다.
 다만, 지수산정시가총액의 변동으로 할 경우, 오차가 크게 발생하므로 종가 변동치를 직접계산하여 수익률 계산하는 것이 가장 정확합니다.
 *일반 종목의 변동은 소수점 2 단위로 끊어지기 때문으로 사료됨
 
